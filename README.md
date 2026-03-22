@@ -1,4 +1,4 @@
-# Hi, I'm Emerson (Sabr3) 👋
+# Hallo, I'm Sabr3 (she/her)
 
 **VTSU Atmospheric Science Student | Future Hurricane Hunter | Freelance Developer**
 
