@@ -5,7 +5,7 @@
 - Researching mesovortex formation in landfalling major hurricanes
 - NWS Burlington Student Volunteer
 - Military aviation photographer (8+ years)
-- Virtual 158th Fighter Wing https://virtual158th.com
+- Virtual 158th Fighter Wing | https://virtual158th.com
 
 ## Tech Stack
 `Python` `C++` `HTML/CSS/JS`
