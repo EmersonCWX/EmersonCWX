@@ -1,4 +1,4 @@
-# Hallo, I'm Sabr3 (she/her)
+# Hallo, I'm Sabr3 
 
 **VTSU Atmospheric Science Student | Future Hurricane Hunter | Freelance Developer**
 
