@@ -1,10 +1,10 @@
 # Hallo, I'm Sabr3 
 
-**VTSU Atmospheric Science Student | Future Hurricane Hunter | Freelance Developer**
+**VTSU Atmospheric Science Student | Future Hurricane Hunter | NWP Developer**
 
-- Researching mesovortex formation in landfalling major hurricanes
+- Researching mesovortex formation in major hurricanes
 - NWS Burlington Student Volunteer
-- Military aviation photographer (8+ years)
+- Military aviation photographer (9+ years)
 - Virtual 158th Fighter Wing | https://virtual158th.com
 
 ## Tech Stack
@@ -12,7 +12,7 @@
 
 ## Focus Areas
 - Numerical Weather Prediction (NWP)
-- Severe & space weather modeling
+- Hurricane Models & Visualization
 - Mesoscale analysis tools 
 
 
