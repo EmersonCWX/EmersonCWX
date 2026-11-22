@@ -1,6 +1,6 @@
 # Hallo, I'm Sabr3 
 
-**VTSU Atmospheric Science Student (Minor in Hydrology & Mathematics | Future Hurricane Hunter | NWP Developer**
+**VTSU Atmospheric Science Student (Minor in Hydrology & Mathematics | Hurricane Researcher | NWP Developer**
 
 - Researching mesovortex formation in major hurricanes
 - NWS Burlington Student Volunteer
